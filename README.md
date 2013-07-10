@@ -1,6 +1,8 @@
 Guides
 ======
 
+An established code culture, written down. This gives us speed and efficency in onboarding and ongoings. 
+
 Design sturdy apps, write code well. Be a BOSS. And a CHAMP.
 
 - [Protocol](protocol): General development and architecture guidelines.

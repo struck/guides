@@ -30,6 +30,8 @@ Design sturdy apps, write code well. Be a BOSS. And a CHAMP.
 
 - Open an issue specifically referencing the guideline and its location in the guides.
 - Periodically review commits and comment as necessary on changes in commits.
+- Avoid replying to raised issues with phrases like "Cool story, bro" or "Come at me bro!", 
+  but do achieve closure on all heated guideline discussions with a bro hug/shake/bump.
 
 <br>
 ![](http://cl.ly/image/0v0b071t0K3P/bam.gif)

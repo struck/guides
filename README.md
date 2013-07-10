@@ -8,7 +8,7 @@ Design sturdy apps, write code well. Be a BOSS. And a CHAMP.
 - [Protocol](protocol): General development and architecture guidelines.
 - [Coding Patterns and Practices](patterns-and-practices): A guide for programming well.
 - [Code Style](code-style): A guide for programming in style.
-- [Documentation](documentation): A guide for appropriate documentation.
+- [Documentation & Specifications](documentation-and-specifications): A guide for appropriate documentation.
 - [Issue Tracking](issue-tracking): A guide for appropriate code and application documentation.
 - [Code Review](code-review): A guide for reviewing code and having your code reviewed.
 

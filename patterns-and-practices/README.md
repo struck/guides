@@ -105,6 +105,7 @@ Data
   can be seeded independently.
 * Write a flexible set of fpo data seed tasks with any app with a database.
 * Keep fpo data seeding seperate from standard seeding scripts.
+* Don't store sensitive values in a database or data-store without encryption.
 
 Testing
 -------

@@ -7,18 +7,14 @@ General development and architecture guidelines.
 - Prefer [Postgres.app](http://postgresapp.com/) to other installation methods of Postgres. 
 - Prefer [Mamp](http://www.mamp.info/) to other installation methods of Mysql or Php.
 
-Git / Version Control
----------------------
+Git
+---
 
 - Use Git and Github.
 - Don't check sensitive values or data into version control.
 - Name repos using snake_case, not dashed-case or CamelCase, and when possible in the case 
   of web apps, name repos after the domain at which they will be hosted. 
 - Name branches using snake_case, not dashed-case or CamelCase. 
-- Perform work in a feature branch.
-- Delete feature branches from remotes after those branches are irrelevant.
-- Write [verbose and descriptive commit messages](http://goo.gl/w11us).
-- Tag major releases of a web app.
 
 Ruby
 ----

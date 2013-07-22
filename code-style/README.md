@@ -55,6 +55,11 @@ Code Organization
 * Order methods so that methods are as close as possible to other methods they
   call.
 
+HTML
+----
+
+* Render text as sentence case or title case (where applicable). Healines or text that should be displayed as all uppercase should be css styled to do so.
+
 Sass
 ----
 

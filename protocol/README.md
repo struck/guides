@@ -21,7 +21,7 @@ Ruby
 
 - Use either [rbenv] or [rvm] for Ruby version management, expect either in new apps.
 - Specify a ruby version.
-- Keep ruby versions in sync between `.ruby-version`, `.rvmrc', and `Gemfile`
+- Keep ruby versions in sync between `.ruby-version`, `.rvmrc`, and `Gemfile`
 - Prefer to lock projects to a specific ruby version such as `1.9.2` or `1.9.3` 
   as opposed to patch versions such as `1.9.2p290`.
 - Prefer [Unicorn](https://github.com/defunkt/unicorn) over Thin and Webrick.

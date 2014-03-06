@@ -106,6 +106,10 @@ Data
 * Write a flexible set of fpo data seed tasks with any app with a database.
 * Keep fpo data seeding seperate from standard seeding scripts.
 * Don't store sensitive values in a database or data-store without encryption.
+* Use the right terms for data seeding. Use `seeds` as a general term, but split 
+  application data out into `bootstrap` (essential to the app but not typically 
+  edited), `fpo` (data to be replaced by final content), and `seeds` (data that
+  will typically be edited and is final content).
 
 Testing
 -------

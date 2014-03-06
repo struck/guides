@@ -168,6 +168,11 @@ Background Jobs
 * Store IDs, not `ActiveRecord` objects for cleaner serialization, then re-find
   the `ActiveRecord` object in the `perform` method.
 
+Assets
+------
+
+* When using markup processing or dynamic views and asset hashing is available, always use it. This enables flexability down the road for edge caching and invalidating.
+
 Caching
 -------
 
